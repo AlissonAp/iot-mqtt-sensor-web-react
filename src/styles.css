@@ -1,0 +1,52 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: rgb(110, 91, 91);
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.filterContainer{
+    padding: 10px;
+}
+
+.filterContainer label{
+    color: white;
+    font-weight: bold;
+}
+
+.filterContainer button{
+    margin: 2px 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+.resultContainer{
+    display: flex;
+    background-color: antiquewhite;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card{
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 180px;
+    background: rgba(228, 222, 222, 0.933);
+    border: 1px solid rgb(156, 152, 152)
+}
+
+.footerContainer span{
+    display: flex;
+    text-align: right;
+    align-items: flex-end;
+    padding: 10px;
+    justify-content: right;
+
+}
