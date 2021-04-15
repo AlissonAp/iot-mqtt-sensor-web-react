@@ -1,3 +1,9 @@
+
+## Sobre o projeto
+
+Página web desenvolvida em React JS para acompanhar o monitoramento de sensores de IoT, implementados por meio de uma fila de mensagens MQTT.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
